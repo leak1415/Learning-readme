@@ -6,3 +6,7 @@
 `pip install`
 
 `composoer install`
+### Todo list
+- [] Home page
+- [] About page
+- [x] service page
